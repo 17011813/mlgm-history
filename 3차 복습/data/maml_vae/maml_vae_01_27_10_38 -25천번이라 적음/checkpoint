@@ -1,0 +1,2 @@
+model_checkpoint_path: "itr_24950_loss0.0300"
+all_model_checkpoint_paths: "itr_24950_loss0.0300"
